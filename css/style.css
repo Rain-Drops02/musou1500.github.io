@@ -266,7 +266,7 @@ ul.horizontal-list {
 }
 ul.products > li{
     width:20%;
-    padding:0px 8px;
+    padding:8px;
 }
 
 ul.products > li > a{
