@@ -175,7 +175,7 @@ ul.h-menu > li > a:hover{
 
 img.icon-large {
     width:230px;
-    border-radius: 3px;
+    border-radius: 50%;
 }
 
 .profile-icon {
